@@ -1,0 +1,37 @@
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,500;0,700;1,900&display=swap');
+ html {
+ 	font-family: Montserrat;
+ }
+ *{
+	background-color: black;
+	color: white;
+	font-size: 30px;
+}
+.black {
+	background-color: white;
+	color: darkcyan;
+}
+h1,h2,h3 {
+	background-color: pink;
+	color: yellowgreen;
+}
+section p {
+	background-color: rosybrown;
+	color: white;
+}
+section p span {      
+	color: skyblue;
+}
+span {
+	color: purple;
+}
+#laudantium {
+	background-color: darkmagenta;
+}
+h3.black {
+	font-size: 50px;
+
+}
+.purple {
+	font-weight: bold;
+}
