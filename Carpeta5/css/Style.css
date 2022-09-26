@@ -1,0 +1,16 @@
+h1{
+	margin: 20px;
+	text-align: center;
+	border: 20px solid darkred;
+	width: 300px;
+	height: auto;
+  }
+a{
+	background-color: grey;
+}
+img{
+	width: 340px;
+}
+video{
+	width: 700px;
+}
